@@ -152,5 +152,12 @@ To transition OpsPulse into a fully production-ready enterprise solution, planne
 - **Sentiment & CSAT Metrics**: Expand LLM parsing to measure caller sentiment (Frustrated, Satisfied, Neutral) and predict customer satisfaction scores over time.
 
 ```
+## OUTPUT
+
+<img width="1891" height="904" alt="Screenshot 2026-08-14 232857" src="https://github.com/user-attachments/assets/721ef879-dacf-492e-98ba-fa8777b62ca4" />
+<img width="1885" height="877" alt="Screenshot 2026-08-14 232836" src="https://github.com/user-attachments/assets/a0acc8f2-b047-437f-a9b6-1f88dd88b61a" />
+<img width="1887" height="896" alt="Screenshot 2026-08-14 232817" src="https://github.com/user-attachments/assets/70909a67-5ec7-4703-a8eb-372c43d34cd5" />
+<img width="1892" height="900" alt="Screenshot 2026-08-14 232803" src="https://github.com/user-attachments/assets/2e9a0673-478e-4e15-a804-918537774492" />
+```
 
 ```
